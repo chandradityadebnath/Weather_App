@@ -3,7 +3,7 @@
 A polished desktop weather application built with Python and Tkinter.
 
 ## Features
-- Search cities and get current weather
+- Search cities and get current weather.
 - Temperature display in Celsius and Fahrenheit
 - Wind speed, humidity, and wind direction
 - Clean dark theme with modern weather cards
@@ -26,7 +26,7 @@ Or on Windows:
 py app.py
 ```
 
-## Project Structure
+## Project Structure is below
 
 ```text
 calculator-app/
