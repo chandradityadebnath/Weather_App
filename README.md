@@ -2,18 +2,18 @@
 
 A polished desktop weather application built with Python and Tkinter.
 
-## Features
+## Features :
 - Search cities and get current weather.
 - Temperature display in Celsius and Fahrenheit
 - Wind speed, humidity, and wind direction
 - Clean dark theme with modern weather cards
 - Uses Open-Meteo free weather APIs
 
-## Requirements
+## Requirements :
 - Python 3.8+
 - Tkinter (included with most Python installations).
 
-## Run the app
+## Run the app :
 From the project folder, run:
 
 ```bash
