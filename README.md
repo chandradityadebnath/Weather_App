@@ -1,4 +1,8 @@
 # Weather App
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
+![Tkinter](https://img.shields.io/badge/GUI-Tkinter-lightgrey)
+![Open-Meteo](https://img.shields.io/badge/API-Open--Meteo-orange)
+![License](https://img.shields.io/badge/License-MIT-brightgreen)
 
 This is a polished desktop weather application built with Python and Tkinter.
 
