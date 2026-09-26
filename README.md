@@ -33,11 +33,10 @@ py app.py
 ## Project Structure is below
 
 ```text
-calculator-app/
+Weather_App/
 ├── app.py
 ├── README.md
 └── LICENSE
-```
 
 ##  Mindful Future Improvements & Roadmap
 
